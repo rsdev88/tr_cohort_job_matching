@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="JobMatchingTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScoringStrategies\BruteForceApproachTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
