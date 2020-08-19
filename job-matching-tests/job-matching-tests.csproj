@@ -51,6 +51,7 @@
     <Compile Include="JobMatchingTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ScoringStrategies\BruteForceApproachTests.cs" />
+    <Compile Include="ScoringStrategies\DictionaryExactMatchApproachTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

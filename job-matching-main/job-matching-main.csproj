@@ -46,6 +46,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ScoringStrategies\BruteForceApproach.cs" />
+    <Compile Include="ScoringStrategies\DictionaryExactMatchApproach.cs" />
     <Compile Include="ScoringStrategies\IScoringStrategy.cs" />
   </ItemGroup>
   <ItemGroup>
